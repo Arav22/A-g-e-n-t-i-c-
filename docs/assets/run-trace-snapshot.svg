@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="420" viewBox="0 0 1080 420">
+  <rect width="1080" height="420" fill="#111827"/>
+  <text x="28" y="50" font-family="monospace" font-size="28" fill="#e5e7eb">Run Trace Snapshot</text>
+  <text x="28" y="105" font-family="monospace" font-size="22" fill="#bfdbfe">[14:00:07] incident-triage attempt=1 retry transient_timeout</text>
+  <text x="28" y="145" font-family="monospace" font-size="22" fill="#bbf7d0">[14:00:08] incident-triage attempt=2 success score=0.92</text>
+  <text x="28" y="185" font-family="monospace" font-size="22" fill="#bbf7d0">[14:00:22] research-assistant attempt=1 success score=0.89</text>
+  <text x="28" y="225" font-family="monospace" font-size="22" fill="#fecaca">[14:01:14] workflow-automation attempt=1 fail missing_required_team</text>
+  <text x="28" y="265" font-family="monospace" font-size="22" fill="#bbf7d0">[14:01:15] workflow-automation attempt=2 success score=0.95</text>
+  <text x="28" y="335" font-family="monospace" font-size="22" fill="#e5e7eb">summary: success_rate=0.80  retry_avg=0.40  p95_latency=0.61s</text>
+</svg>

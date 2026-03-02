@@ -1,0 +1,22 @@
+{
+  "total_runs": 15,
+  "latency_avg_s": 0.1645,
+  "latency_p95_s": 0.2807,
+  "success_rate": 0.9333,
+  "retry_avg": 0.2,
+  "retry_max": 1,
+  "by_case": {
+    "incident-triage": {
+      "success_rate": 1.0,
+      "latency_avg_s": 0.1837
+    },
+    "research-assistant": {
+      "success_rate": 1.0,
+      "latency_avg_s": 0.1683
+    },
+    "workflow-automation": {
+      "success_rate": 0.8,
+      "latency_avg_s": 0.1415
+    }
+  }
+}

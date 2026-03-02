@@ -1,0 +1,5 @@
+2026-03-01T14:00:07Z request_id=inc-2041 case=incident-triage attempt=1 status=retry reason=transient_timeout latency_ms=402
+2026-03-01T14:00:08Z request_id=inc-2041 case=incident-triage attempt=2 status=success score=0.92 latency_ms=611
+2026-03-01T14:00:22Z request_id=res-9913 case=research-assistant attempt=1 status=success score=0.89 latency_ms=318
+2026-03-01T14:01:14Z request_id=wfa-1188 case=workflow-automation attempt=1 status=fail reason=missing_required_team:data-platform latency_ms=279
+2026-03-01T14:01:15Z request_id=wfa-1188 case=workflow-automation attempt=2 status=success score=0.95 latency_ms=341
