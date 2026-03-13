@@ -12,7 +12,7 @@ cp .env.example .env
 make run PROMPT="Summarize today's todos"
 ```
 
-Or run directly:
+Or run directly in pc:
 
 ```bash
 python -m agentic_ai --prompt "Count words in: hello from agentic ai"
