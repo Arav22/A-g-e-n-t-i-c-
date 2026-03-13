@@ -1,3 +1,4 @@
+#makefile
 PYTHON ?= python
 PROMPT ?= Count words in: hello world from agentic ai
 
