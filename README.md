@@ -36,7 +36,7 @@ observability.logging is used across layers for structured logs.
 ## Project Layout
 
 - `src/agentic_ai/main.py` — CLI entrypoint logics.
-- `src/agentic_ai/orchestrator/` — workflow orchestrations.
+- `src/agentic_ai/orchestrator/` — workflows orchestrations.
 - `src/agentic_ai/tools/` — tool registration + implementations.
 - `src/agentic_ai/memory/` — in-memory conversation history.
 - `src/agentic_ai/providers/` — provider abstraction/stub.
